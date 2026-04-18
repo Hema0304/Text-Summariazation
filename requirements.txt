@@ -10,3 +10,5 @@ arxiv
 sqlalchemy
 mysql-connector-python
 pypdf
+validators
+youtube_transcript_api
